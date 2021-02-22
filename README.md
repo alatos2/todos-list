@@ -5,7 +5,7 @@ The todo list app allows user to add new, modify and delete existing todos. It e
 
 ## Table of Contents
 * [Introduction](#todo-list-app)
-* [Technical Documentation]
+* [Technical Documentation](https://alatos2.github.io/todos-list/docs/index.html/)
 * [Bugs Fixing](https://github.com/alatos2/todos-list/wiki/3.-Bugs-Detection)
 * [Tests](https://github.com/alatos2/todos-list/wiki/4.-Test)
 * [App Performance Audit](https://github.com/alatos2/todos-list/wiki/5.-App-Performance-Audit)
