@@ -10,7 +10,7 @@ The todo list app allows user to add new, modify and delete existing todos. It e
 * [Tests](https://github.com/alatos2/todos-list/wiki/4.-Test)
 * [App Performance Audit](https://github.com/alatos2/todos-list/wiki/5.-App-Performance-Audit)
 * [Competitors Todo List Me App performance audit](https://github.com/alatos2/todos-list/wiki/6.-Competitors-Todo-List-Me-App-performance-audit)
-* [Comparison of audits]
+* [Comparison of audits](https://github.com/alatos2/todos-list/wiki/7.-Audit-Comparison)
 * [Technologies Used](#technologies-used)
 
 ## Technologies Used
